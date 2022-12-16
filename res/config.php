@@ -3,7 +3,7 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'vr');
-define('DB_PASSWORD', 'cDvNJT9xTOQRFCnfXJjv');
+define('DB_PASSWORD', 'REDACTED'); //Password redacted, for security purposes
 define('DB_NAME', 'qr_game');
 
 //echo phpinfo();
