@@ -1,12 +1,9 @@
 <?php
-/* Database credentials. Assuming you are running MySQL
-server with default setting (user 'root' with no password) */
+//Database credentials.
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'vr');
 define('DB_PASSWORD', 'REDACTED'); //Password redacted, for security purposes
 define('DB_NAME', 'qr_game');
-
-//echo phpinfo();
 
 /* Attempt to connect to MySQL database */
 
